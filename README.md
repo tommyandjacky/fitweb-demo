@@ -1,5 +1,5 @@
 ﻿fitweb-demo
 =====================
-*npm install fitweb -g
-*fw server start
-*fw release
+1. npm install fitweb -g
+2. fw server start
+3. fw release
